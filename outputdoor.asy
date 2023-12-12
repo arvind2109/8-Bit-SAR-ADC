@@ -1,0 +1,81 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 64 33 -80 -15
+TEXT -80 -7 Left 0 in:
+TEXT -48 -15 Top 0 6
+TEXT -64 -14 Top 0 7
+TEXT -32 -14 Top 0 5
+TEXT -16 -15 Top 0 4
+TEXT 0 -15 Top 0 3
+TEXT 16 -14 Top 0 2
+TEXT 32 -15 Top 0 1
+TEXT 48 -15 Top 0 0
+TEXT 63 0 Right 0 vhigh
+TEXT 63 16 Right 0 vlow
+TEXT 48 31 Bottom 0 0
+TEXT 32 32 Bottom 0 1
+TEXT 17 32 Bottom 0 2
+TEXT 0 33 Bottom 0 3
+TEXT -17 33 Bottom 0 4
+TEXT -32 33 Bottom 0 5
+TEXT -78 17 Left 0 clk
+TEXT -48 32 Bottom 0 6
+TEXT -64 33 Bottom 0 7
+TEXT -11 9 Center 0 Output
+PIN -80 16 NONE 8
+PINATTR PinName clk
+PINATTR SpiceOrder 1
+PIN 48 -16 NONE 8
+PINATTR PinName in0
+PINATTR SpiceOrder 2
+PIN 32 -16 NONE 8
+PINATTR PinName in1
+PINATTR SpiceOrder 3
+PIN 16 -16 NONE 8
+PINATTR PinName in2
+PINATTR SpiceOrder 4
+PIN 0 -16 NONE 8
+PINATTR PinName in3
+PINATTR SpiceOrder 5
+PIN -16 -16 NONE 8
+PINATTR PinName in4
+PINATTR SpiceOrder 6
+PIN -32 -16 NONE 8
+PINATTR PinName in5
+PINATTR SpiceOrder 7
+PIN -48 -16 NONE 8
+PINATTR PinName in6
+PINATTR SpiceOrder 8
+PIN -64 -16 NONE 8
+PINATTR PinName in7
+PINATTR SpiceOrder 9
+PIN 48 32 NONE 8
+PINATTR PinName out0
+PINATTR SpiceOrder 10
+PIN 32 32 NONE 8
+PINATTR PinName out1
+PINATTR SpiceOrder 11
+PIN 16 32 NONE 8
+PINATTR PinName out2
+PINATTR SpiceOrder 12
+PIN 0 32 NONE 8
+PINATTR PinName out3
+PINATTR SpiceOrder 13
+PIN -16 32 NONE 8
+PINATTR PinName out4
+PINATTR SpiceOrder 14
+PIN -32 32 NONE 8
+PINATTR PinName out5
+PINATTR SpiceOrder 15
+PIN -48 32 NONE 8
+PINATTR PinName out6
+PINATTR SpiceOrder 16
+PIN -64 32 NONE 8
+PINATTR PinName out7
+PINATTR SpiceOrder 17
+PIN 64 0 NONE 8
+PINATTR PinName VHIGH
+PINATTR SpiceOrder 18
+PIN 64 16 NONE 8
+PINATTR PinName VLOW
+PINATTR SpiceOrder 19
