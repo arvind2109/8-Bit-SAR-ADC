@@ -1,2 +1,2 @@
-# 8-Bit-SAR-ADC
-This project is incomplete.
+SAR-ADC
+Design of 8-Bit SAR ADC with 45nm using LTSpice
